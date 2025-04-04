@@ -16,4 +16,5 @@ Features
 
 Conclusion
 
-This project was an incredible learning journey in deploying applications with Kubernetes. It provides a hands-on experience in containerization, networking, and cloud-native application deployment.
+This project was an incredible learning journey in deploying applications with Kubernetes. It provides a hands-on experience in containerization, networking, and cloud-native application deployment.linux operating system required!
+
